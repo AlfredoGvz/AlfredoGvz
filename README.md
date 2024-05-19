@@ -1,6 +1,6 @@
 # About Me:
 
-###I am a software developer based in the UK who enjoys a good cup of coffee while coding. I've worked with various technologies, including MongoDB and PostgreSQL for databases, Node.js for APIs, and React.js for building full-stack applications. I use Tailwind CSS and vanilla CSS to create adaptable and dynamic front ends.
+### I am a software developer based in the UK who enjoys a good cup of coffee while coding. I've worked with various technologies, including MongoDB and PostgreSQL for databases, Node.js for APIs, and React.js for building full-stack applications. I use Tailwind CSS and vanilla CSS to create adaptable and dynamic front ends.
 
 ## 🌐 Socials:
 
