@@ -1,4 +1,4 @@
-<img align="left" height="350" src="https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif"  />
+<img align="left" height="300" src="https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif"  />
 
 ###
 
@@ -48,6 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/https://alf-spoty.onrender.com/">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://alf-spoty.onrender.com/&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
