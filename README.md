@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I am a developer for fun. I like building my knowledge up and put that knowledge into practical uses. Hence my collection of repos with multiple projects!<br>Based in the UK and originally from South America, I speak both english and spanish.<br>Fell free to browse around!</p>
+<p align="center">A fullstack developer leaning more towards backend. I like building my knowledge up and put that knowledge into practical uses. Hence my collection of repos with multiple projects!<br>Based in the UK and originally from South America, I speak both english and spanish.<br>Fell free to browse around!</p>
 
 ###
 
